@@ -27,4 +27,4 @@ Letusan gunung berapi memiliki dampak signifikan pada lingkungan dan kehidupan m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/volcanic-eruption-analysis.git
+   git clone https://github.com/JauzackFA/VulcanicEruptionDashboard.git
